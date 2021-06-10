@@ -4,7 +4,7 @@
 ## ● model 1
 
 #### 1. Model 
-![model](model 1/model 1.PNG)
+![model](https://github.com/JJPPH/Algorithm_01/blob/f70b030be2ce0a7dd12f3a8357640c54f15150f3/model%201/model%201.PNG)
 #### 2. Training with Training loss 
 ![Training](https://user-images.githubusercontent.com/55013577/81248789-2033aa00-9058-11ea-800f-7ccff5d334f6.png)
 #### 3. Test Accuracy
