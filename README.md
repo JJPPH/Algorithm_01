@@ -1,10 +1,10 @@
 # Algorithm_01
 
 ---------------------------------------
-## ○ model 1
+## ● model 1
 
 #### 1. Model 
-![model](/model1/model 1.PNG)
+![model](/model 1/model 1.PNG)
 #### 2. Training with Training loss 
 ![Training](https://user-images.githubusercontent.com/55013577/81248789-2033aa00-9058-11ea-800f-7ccff5d334f6.png)
 #### 3. Test Accuracy
@@ -16,9 +16,9 @@
 
 
 ---------------------------------------
-## model 2
+## ● model 2
 
 ---------------------------------------
-## model 3
+## ● model 3
 
 
