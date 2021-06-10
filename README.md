@@ -29,7 +29,7 @@
 ## ● model 2
 
 #### 1. Model 
-![model](https://github.com/JJPPH/Algorithm_01/blob/f70b030be2ce0a7dd12f3a8357640c54f15150f3/model%202/mode2%202.PNG)
+![model](https://github.com/JJPPH/Algorithm_01/blob/f70b030be2ce0a7dd12f3a8357640c54f15150f3/model%202/model%202.PNG)
 
 #### 2. Model Summary
 ![model](https://github.com/JJPPH/Algorithm_01/blob/6c98aeaec52c8f0ab34c98878614495d8ae94a93/model%202/model%202%20summary.PNG)
@@ -53,7 +53,7 @@
 ## ● model 3
 
 #### 1. Model 
-![model](https://github.com/JJPPH/Algorithm_01/blob/f70b030be2ce0a7dd12f3a8357640c54f15150f3/model%203/mode2%203.PNG)
+![model](https://github.com/JJPPH/Algorithm_01/blob/f70b030be2ce0a7dd12f3a8357640c54f15150f3/model%203/model%203.PNG)
 
 #### 2. Model Summary
 ![model](https://github.com/JJPPH/Algorithm_01/blob/6c98aeaec52c8f0ab34c98878614495d8ae94a93/model%203/model%203%20summary.PNG)
