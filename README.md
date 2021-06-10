@@ -4,7 +4,7 @@
 ## ● model 1
 
 #### 1. Model 
-![model](model 1/model 1.PNG)
+![model](./model 1/model 1.PNG)
 
 #### 2. Model Summary
 ![model](https://github.com/JJPPH/Algorithm_01/blob/6c98aeaec52c8f0ab34c98878614495d8ae94a93/model%201/model%201%20summary.PNG)
