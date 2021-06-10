@@ -1,7 +1,7 @@
 # Algorithm_01
 
 ---------------------------------------
-## model 1
+## ○ model 1
 
 #### 1. Model 
 ![model](/model1/model 1.PNG)
